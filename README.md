@@ -6,3 +6,9 @@ Bem-vindo ao meu repositório dedicado às atividades da disciplina de Desenvolv
 
 Neste repositório, você encontrará uma coleção de exercícios, projetos e exemplos de código relacionados ao desenvolvimento de aplicativos móveis. Cada atividade foi elaborada para aprimorar minhas habilidades em programação para plataformas móveis, abordando diferentes aspectos do desenvolvimento.
 
+🔴🟩🟩
+🟩🟩
+🟩🟩🟩
+🟩🟩
+🟩🟩
+
